@@ -1,0 +1,6 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 3.10)
+
+PROJECT(target-compile-definitions)
+
+# TARGET_COMPILE_DEFINITIONS(hello_world PRIVATE MY_DEF)
+
